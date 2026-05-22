@@ -128,7 +128,7 @@ D E <BR>
 D G <BR>
 G F <BR>
 <hr>
-<h3>Sample Output</h3>
+<h3>Output</h3>
 
 <img width="1194" height="478" alt="image" src="https://github.com/user-attachments/assets/aaef731d-2498-4da1-bdd8-8b44d45ac525" />
 
@@ -148,9 +148,9 @@ G F <BR>
 2 4 <BR>
 3 4 <BR>
 <hr>
-<h3>Sample Output</h3>
-<img width="938" height="490" alt="image" src="https://github.com/user-attachments/assets/8f7db9bc-6d97-4acd-90b3-c86e9165c488" />
+<h3>Output</h3>
 
+<img width="938" height="490" alt="image" src="https://github.com/user-attachments/assets/8f7db9bc-6d97-4acd-90b3-c86e9165c488" />
 
 <hr>
 ['0', '1', '2', '3', '4']
